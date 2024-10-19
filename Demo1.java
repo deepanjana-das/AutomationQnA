@@ -9,7 +9,7 @@ import java.util.Map;
 
 import javax.print.attribute.standard.MediaSize.NA;
 
-import hashmap.hashmap;
+
 
 public class Demo1 {
 	
@@ -417,9 +417,9 @@ public static int lengthOfLongestString(String s) { //abcabcde
 		int sumOfIntegersInAlphaNeumericString = sumOfIntegersInAlphaNeumericString("dfJ67R23p11");
 		System.out.println(sumOfIntegersInAlphaNeumericString);
 		
-		System.out.println(lengthOfLongestString("abcde"));
+		//System.out.println(lengthOfLongestString("abcde"));
 		System.out.println(lengthOfLongestString("abcabcde"));
-		System.out.println(lengthOfLongestString("abbcdb"));
+		//System.out.println(lengthOfLongestString("abbcdb"));
 	}
 	
 	
